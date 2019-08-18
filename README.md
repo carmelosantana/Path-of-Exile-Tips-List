@@ -1,6 +1,6 @@
 # Path of Exile Tips List
 
-This doc is designed for new players.
+This doc is designed for newly exiled players.
 
 * [Resources](#Resources)
 * [Vendor Recipes](#Vendor-Recipe)
@@ -17,18 +17,26 @@ This doc is designed for new players.
   * [Skill gem level reduction](#-Skill-gem-level-reduction)
   * [Skill gem level reset](#-Skill-gem-level-reset)
   * [Vaal Orb](#-Vaal-Orb)
-* [Sources](#Sources) 
+* [Sources](#Sources)
 
 ## Resources
 
-External tools and resources that add to or expand on your PoE experience.
+External tools and resources that increase the overall PoE quality of life.
 
-* [Poe Trade](https://poe.trade/)
+* [Twilight Strand](https://sites.google.com/view/thetwilightstrand/home) Complete beginner's guide
+* [PoE Trade](https://poe.trade/)
 * [Filter Blade](https://www.filterblade.xyz)
+* [Path Of Building](https://github.com/Openarl/PathOfBuilding)
+* [Vendor Recipe System](https://pathofexile.gamepedia.com/Vendor_recipe_system)
+* [Gauntlet's + Puzzles](https://www.poelab.com/gauntlets-puzzles)
+* [Grinding Zone](https://grinding.zone/)
+* [PoE Map](https://poemap.live/)
+* [Lab Maps,Boss Guides and More](https://www.poelab.com/)
+* [PoE DB](http://poedb.tw/us/)
 
 ## Vender Recipes
 
-Here you'll find recipes you can use when selling items to vendors. This is not a complete list.
+This is a basic list of simple recipes you can use when selling items to vendors. These are simple beginner recipes, with basic ingredients. Some recipes require more exotic currency.
 
 ### 📜 +1 to level of gems recipe
 
@@ -47,7 +55,7 @@ Will return a level 1 gem with 20% quality.
 
 ### 📜 40% quality
 
-You need armor, weapons, maps or flasks with total quality of 40% or more for this recipe to work. For example, if I want 1 armorer’s scrap, I will sell chest armor with 16% quality + boots with 15% quality + helm with 12% quality. The same applies for flasks, weapons, maps and skill gems.
+You need armor, weapons, maps or flasks with total quality of 40% or more for this recipe to work. For example, if I want 1 armorer’s scrap, I will sell chest armor with 16% quality + boots with 15% quality + helm with 12% quality. The same applies for flasks, weapons, maps and skill gems. Refer to [Vendor Recipe System](https://pathofexile.gamepedia.com/Vendor_recipe_system) if you need a full breakdown of the recipe functionality.
 
 ```text
 * Weapons > Blacksmith’s Whetstone
@@ -73,7 +81,7 @@ You need armor, weapons, maps or flasks with total quality of 40% or more for th
 
 ### 📜 Chaos Orb
 
-Trading 1 full set of level 60+ rare equipmen:
+Trading 1 full set of level 60+ rare equipment:
 
 * 1x orb for identified items
 * 2x orbs if all items are 20% quality
@@ -134,6 +142,7 @@ Resets gem back to level 1.
 
 ## Sources
 
+* [gamepedia.com](https://pathofexile.gamepedia.com/Vendor_recipe_system)
 * [fextralife.com](https://fextralife.com/path-of-exile-best-recipes-2019/)
 * [pathofexilegems.com](https://pathofexilegems.com/10-poe-vendor-recipes-must-know/)
 * [poecurrencybuy.com](https://www.poecurrencybuy.com/news/path-of-exile-chaos-orbs-recipe)
